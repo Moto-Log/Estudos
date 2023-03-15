@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.RegistroConsumoDeEnergia.resources
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.exe.config
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.exe
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.pdb
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.exe
+C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.pdb
