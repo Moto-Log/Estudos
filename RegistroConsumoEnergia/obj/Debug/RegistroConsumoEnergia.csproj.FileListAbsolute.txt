@@ -8,3 +8,13 @@ C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\bin\Debug\Reg
 C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.pdb
 C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.exe
 C:\Users\Aluno\Desktop\Programação visual\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.exe.config
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\bin\Debug\RegistroConsumoEnergia.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.RegistroConsumoDeEnergia.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\RegistroConsumoEnergia\obj\Debug\RegistroConsumoEnergia.pdb

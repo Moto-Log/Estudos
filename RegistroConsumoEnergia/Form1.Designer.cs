@@ -88,6 +88,7 @@ namespace RegistroConsumoEnergia
             this.btnRegistrar.TabIndex = 4;
             this.btnRegistrar.Text = "Registrar";
             this.btnRegistrar.UseVisualStyleBackColor = true;
+            this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // btnProcessarDados
             // 
@@ -98,6 +99,7 @@ namespace RegistroConsumoEnergia
             this.btnProcessarDados.TabIndex = 5;
             this.btnProcessarDados.Text = "Processar";
             this.btnProcessarDados.UseVisualStyleBackColor = true;
+            this.btnProcessarDados.Click += new System.EventHandler(this.btnProcessarDados_Click);
             // 
             // dgvLeituras
             // 
@@ -128,7 +130,7 @@ namespace RegistroConsumoEnergia
             // 
             this.lblTotal.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblTotal.AutoSize = true;
-            this.lblTotal.Location = new System.Drawing.Point(134, 255);
+            this.lblTotal.Location = new System.Drawing.Point(120, 255);
             this.lblTotal.Name = "lblTotal";
             this.lblTotal.Size = new System.Drawing.Size(158, 13);
             this.lblTotal.TabIndex = 7;
