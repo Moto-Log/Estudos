@@ -1,0 +1,10 @@
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\bin\Debug\gastoRestaurante.exe.config
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\bin\Debug\gastoRestaurante.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\bin\Debug\gastoRestaurante.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\gastoRestaurante\obj\Debug\gastoRestaurante.CalcularDespesa.resources
