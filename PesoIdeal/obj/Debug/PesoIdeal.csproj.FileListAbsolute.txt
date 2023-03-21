@@ -1,0 +1,10 @@
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.calculaPesoIdeal.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\PesoIdeal\obj\Debug\PesoIdeal.pdb
