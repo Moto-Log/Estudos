@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace ReajusteSalarial_Arquivo
 {
-    class RepositorioFuncionario
+    public class RepositorioFuncionario
     {
         private IList<Funcionario> funcionarios = new BindingList<Funcionario>();
 

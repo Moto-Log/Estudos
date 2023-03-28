@@ -32,7 +32,7 @@ namespace ReajusteSalarial_Arquivo
             this.txtArquivo = new System.Windows.Forms.TextBox();
             this.btnPesquisa = new System.Windows.Forms.Button();
             this.dgvReajuste = new System.Windows.Forms.DataGridView();
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.ofdListaFuncionarios = new System.Windows.Forms.OpenFileDialog();
             this.tbPnReajuste = new System.Windows.Forms.TableLayoutPanel();
             this.lblPercent = new System.Windows.Forms.Label();
             this.lblPercentualReajuste = new System.Windows.Forms.Label();
@@ -46,6 +46,8 @@ namespace ReajusteSalarial_Arquivo
             // 
             // txtArquivo
             // 
+            this.txtArquivo.BackColor = System.Drawing.SystemColors.ScrollBar;
+            this.txtArquivo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtArquivo.Enabled = false;
             this.txtArquivo.Location = new System.Drawing.Point(12, 9);
             this.txtArquivo.Name = "txtArquivo";
@@ -60,6 +62,7 @@ namespace ReajusteSalarial_Arquivo
             this.btnPesquisa.TabIndex = 4;
             this.btnPesquisa.Text = "...";
             this.btnPesquisa.UseVisualStyleBackColor = true;
+            this.btnPesquisa.Click += new System.EventHandler(this.btnPesquisa_Click);
             // 
             // dgvReajuste
             // 
@@ -69,9 +72,11 @@ namespace ReajusteSalarial_Arquivo
             this.dgvReajuste.Size = new System.Drawing.Size(430, 240);
             this.dgvReajuste.TabIndex = 5;
             // 
-            // openFileDialog1
+            // ofdListaFuncionarios
             // 
-            this.openFileDialog1.FileName = "openFileDialog1";
+            this.ofdListaFuncionarios.DefaultExt = "*.txt";
+            this.ofdListaFuncionarios.Filter = "Arquivos Textos|*.txt";
+            this.ofdListaFuncionarios.Title = "Seleção do arquivo com dados de funcionarios";
             // 
             // tbPnReajuste
             // 
@@ -81,7 +86,7 @@ namespace ReajusteSalarial_Arquivo
             this.tbPnReajuste.ColumnCount = 3;
             this.tbPnReajuste.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 46.1832F));
             this.tbPnReajuste.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 53.8168F));
-            this.tbPnReajuste.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 134F));
+            this.tbPnReajuste.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 140F));
             this.tbPnReajuste.Controls.Add(this.lblPercent, 2, 1);
             this.tbPnReajuste.Controls.Add(this.lblPercentualReajuste, 2, 0);
             this.tbPnReajuste.Controls.Add(this.lblComReajuste, 1, 1);
@@ -99,7 +104,7 @@ namespace ReajusteSalarial_Arquivo
             // lblPercent
             // 
             this.lblPercent.AutoSize = true;
-            this.lblPercent.Location = new System.Drawing.Point(289, 17);
+            this.lblPercent.Location = new System.Drawing.Point(283, 17);
             this.lblPercent.Name = "lblPercent";
             this.lblPercent.Size = new System.Drawing.Size(0, 13);
             this.lblPercent.TabIndex = 7;
@@ -109,7 +114,7 @@ namespace ReajusteSalarial_Arquivo
             this.lblPercentualReajuste.AutoSize = true;
             this.lblPercentualReajuste.BackColor = System.Drawing.Color.Yellow;
             this.lblPercentualReajuste.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPercentualReajuste.Location = new System.Drawing.Point(289, 2);
+            this.lblPercentualReajuste.Location = new System.Drawing.Point(283, 2);
             this.lblPercentualReajuste.Name = "lblPercentualReajuste";
             this.lblPercentualReajuste.Size = new System.Drawing.Size(122, 13);
             this.lblPercentualReajuste.TabIndex = 8;
@@ -119,7 +124,7 @@ namespace ReajusteSalarial_Arquivo
             // lblComReajuste
             // 
             this.lblComReajuste.AutoSize = true;
-            this.lblComReajuste.Location = new System.Drawing.Point(136, 17);
+            this.lblComReajuste.Location = new System.Drawing.Point(134, 17);
             this.lblComReajuste.Name = "lblComReajuste";
             this.lblComReajuste.Size = new System.Drawing.Size(0, 13);
             this.lblComReajuste.TabIndex = 6;
@@ -149,7 +154,7 @@ namespace ReajusteSalarial_Arquivo
             this.lblTotalComReajuste.AutoSize = true;
             this.lblTotalComReajuste.BackColor = System.Drawing.Color.Yellow;
             this.lblTotalComReajuste.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTotalComReajuste.Location = new System.Drawing.Point(136, 2);
+            this.lblTotalComReajuste.Location = new System.Drawing.Point(134, 2);
             this.lblTotalComReajuste.Name = "lblTotalComReajuste";
             this.lblTotalComReajuste.Size = new System.Drawing.Size(126, 13);
             this.lblTotalComReajuste.TabIndex = 9;
@@ -183,7 +188,7 @@ namespace ReajusteSalarial_Arquivo
         private System.Windows.Forms.TextBox txtArquivo;
         private System.Windows.Forms.Button btnPesquisa;
         private System.Windows.Forms.DataGridView dgvReajuste;
-        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.OpenFileDialog ofdListaFuncionarios;
         private System.Windows.Forms.TableLayoutPanel tbPnReajuste;
         private System.Windows.Forms.Label lblPercent;
         private System.Windows.Forms.Label lblPercentualReajuste;
