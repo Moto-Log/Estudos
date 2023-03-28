@@ -8,3 +8,13 @@ C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial_Arquivo\obj\Debug\Reaju
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.exe
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.pdb
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\bin\Debug\ReajusteSalarial_Arquivo.exe.config
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\bin\Debug\ReajusteSalarial_Arquivo.exe
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\bin\Debug\ReajusteSalarial_Arquivo.pdb
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.reajustecomarquivo.resources
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.exe
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial_Arquivo\obj\Debug\ReajusteSalarial_Arquivo.pdb
