@@ -8,3 +8,13 @@ C:\Users\gabri\Desktop\Projetos\Estudos\CadastroFuncionarios\obj\Debug\CadastroF
 C:\Users\gabri\Desktop\Projetos\Estudos\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Desktop\Projetos\Estudos\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.exe
 C:\Users\gabri\Desktop\Projetos\Estudos\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.pdb
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.exe.config
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.exe
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\bin\Debug\CadastroFuncionarios.pdb
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.CriacaoDeArquivo.resources
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.exe
+C:\Users\Aluno\Desktop\Programação visual\CadastroFuncionarios\obj\Debug\CadastroFuncionarios.pdb

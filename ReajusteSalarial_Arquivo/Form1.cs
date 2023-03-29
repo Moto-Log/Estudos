@@ -45,6 +45,7 @@ namespace ReajusteSalarial_Arquivo
             }
             double percentualReajuste = (totalComReajuste - totalSemReajuste) * 100 / totalSemReajuste;
             lblComReajuste.Text = string.Format("{0:c}", totalComReajuste);
+            lblSemReajuste.Text = string.Format("{0:c}", totalSemReajuste);
             lblPercent.Text = string.Format("{0:n}%", percentualReajuste);
         }
 

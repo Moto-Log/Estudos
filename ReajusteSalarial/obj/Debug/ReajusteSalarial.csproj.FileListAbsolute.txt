@@ -8,3 +8,13 @@ C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial\obj\Debug\ReajusteSalar
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
 C:\Users\gabri\Desktop\Projetos\Estudos\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.ReajusteSalarial.resources
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\Aluno\Desktop\Programação visual\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
