@@ -14,12 +14,11 @@ namespace ViewProject
 {
     public partial class FormFornecedor : Form
     {
-        private FornecedorCotroller controller =
-            new FornecedorCotroller();
-
-        public FormFornecedor()
+        private FornecedorController controller;
+        public FormFornecedor(FornecedorController controller)
         {
             InitializeComponent();
+            this.controller = controller;
         }
 
         private void btnGravar_Click(object sender, EventArgs e)
