@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.pdb
