@@ -1,6 +1,0 @@
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\bin\Debug\Biblioteca de classes.dll
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\bin\Debug\Biblioteca de classes.pdb
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\obj\Debug\Biblioteca de classes.csproj.AssemblyReference.cache
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\obj\Debug\Biblioteca de classes.csproj.CoreCompileInputs.cache
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\obj\Debug\Biblioteca de classes.dll
-C:\Users\Aluno\Desktop\Programação visual\Biblioteca de classes\obj\Debug\Biblioteca de classes.pdb
