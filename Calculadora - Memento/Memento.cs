@@ -9,9 +9,9 @@ namespace Calculadora
 {
     public interface Memento
     {
-        void Salvar(string Operando, string Operador, string Resultado);
-        GroupBox desfazer();
-        GroupBox refazer();
+        void Salvar(Calculadora dados);
+        Calculadora desfazer();
+        Calculadora refazer();
     }
 
 

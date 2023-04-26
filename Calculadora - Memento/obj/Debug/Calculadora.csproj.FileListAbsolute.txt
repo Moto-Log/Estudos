@@ -18,3 +18,13 @@ C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.Gene
 C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Aluno\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\bin\Debug\Calculadora.exe.config
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\bin\Debug\Calculadora.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\bin\Debug\Calculadora.pdb
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.CalcForm.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.exe
+C:\Users\gabri\Desktop\Projetos\Estudos\Calculadora - Memento\obj\Debug\Calculadora.pdb

@@ -9,27 +9,32 @@ namespace Calculadora
 {
     public class ConcreteMemento: Memento
     {
-        private Stack<GroupBox> UndoPile;
-        private Stack<GroupBox> RedoPile;
+        private Stack<Calculadora> UndoPile;
+        private Stack<Calculadora> RedoPile;
 
         public ConcreteMemento()
         {
-            this.UndoPile = new Stack<GroupBox>();
-            this.RedoPile = new Stack<GroupBox>();
+            this.UndoPile = new Stack<Calculadora>();
+            this.RedoPile = new Stack<Calculadora>();
         }
 
-        public GroupBox desfazer()
+        public Calculadora desfazer()
         {
-            return this.UndoPile.Pop(); 
+            int num = UndoPile.Count;
+            if (num == 0)
+                return (Calculadora dados = new Calculadora("","",""));
+            return this.UndoPile.Pop();
         }
 
-        public void Salvar(GroupBox gpBox)
+        public void Salvar(Calculadora dados)
         {
-            this.UndoPile.Push(gpBox);
+           
+            this.UndoPile.Push(dados);
+            this.RedoPile.Clear();
             
         }
 
-        public GroupBox refazer()
+        public Calculadora refazer()
         {
             return this.RedoPile.Pop();
         }

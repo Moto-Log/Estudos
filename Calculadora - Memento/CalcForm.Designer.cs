@@ -121,6 +121,7 @@ namespace Calculadora
             this.btnDesfazer.TabIndex = 0;
             this.btnDesfazer.Text = "Desfazer";
             this.btnDesfazer.UseVisualStyleBackColor = true;
+            this.btnDesfazer.Click += new System.EventHandler(this.btnDesfazer_Click);
             // 
             // tblBotoes
             // 

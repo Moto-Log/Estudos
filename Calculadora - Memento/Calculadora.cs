@@ -9,15 +9,22 @@ namespace Calculadora
 {
     public class Calculadora
     {
-        public Calculadora()
-        {
-        }
+        public string operando;
+        public string operacao;
+        public string operador;
 
+        public Calculadora(string operando, string operacao, string operador)
+        {
+            this.operando = operando;
+            this.operacao = operacao;
+            this.operador = operador;
+        }
 
         public double calcular(double operando, double operador, string operacao)
         {
             double resultado = 0;
-            switch (operacao){
+            switch (operacao)
+            {
                 case "+":
                     resultado = operando + operador;
                     break;
@@ -25,7 +32,11 @@ namespace Calculadora
                     resultado = operando - operador;
                     break;
                 case "/":
-                    if (operador == 0) MessageBox.Show("Impossivel dividir por 0!" + MessageBoxIcon.Error);
+                    if (operador == 0)
+                    {
+                        MessageBox.Show("Impossivel dividir por 0!" + MessageBoxIcon.Error);
+                        break;
+                    }
                     resultado = operando / operador;
                     break;
                 case "x":
@@ -37,6 +48,5 @@ namespace Calculadora
             }
             return resultado;
         }
-
     }
 }

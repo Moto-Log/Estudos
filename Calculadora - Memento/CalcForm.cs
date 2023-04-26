@@ -16,13 +16,20 @@ namespace Calculadora
         public CalcForm()
         {
             InitializeComponent();
+            txtOperando.Focus();
+            txtOperando.Enabled = true;
         }
-        
-        Calculadora calculadora = new Calculadora();
+
+
+        Calculadora calculadora = new Calculadora("","","");
+        Memento memento = new ConcreteMemento();
 
         private void btnEquals_Click(object sender, EventArgs e)
         {
-            txtResultado.Text = Convert.ToString(calculadora.calcular(Convert.ToDouble(txtOperador.Text), Convert.ToDouble(txtOperador.Text), Convert.ToString(lblOp.Text)));
+            memento.Salvar(calculadora);
+            txtResultado.Text = Convert.ToString(calculadora.calcular(Convert.ToDouble(txtOperando.Text), Convert.ToDouble(txtOperador.Text), lblOp.Text));
+            btnRefazer.Enabled = false;
+            btnDesfazer.Enabled = true;
         }
 
         private void btnPlus_Click(object sender, EventArgs e)
@@ -51,7 +58,7 @@ namespace Calculadora
 
         private void btn1_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperando.Enabled)
             {
                 txtOperador.Text += "1";
             }
@@ -63,7 +70,7 @@ namespace Calculadora
 
         private void btn2_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "2";
             }
@@ -75,7 +82,7 @@ namespace Calculadora
 
         private void btn3_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "3";
             }
@@ -87,7 +94,7 @@ namespace Calculadora
 
         private void btn4_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "4";
             }
@@ -99,7 +106,7 @@ namespace Calculadora
 
         private void btn5_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "5";
             }
@@ -111,7 +118,7 @@ namespace Calculadora
 
         private void btn6_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "6";
             }
@@ -123,7 +130,7 @@ namespace Calculadora
 
         private void btn7_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "7";
             }
@@ -135,7 +142,7 @@ namespace Calculadora
 
         private void btn8_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "8";
             }
@@ -147,7 +154,7 @@ namespace Calculadora
 
         private void btn9_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "9";
             }
@@ -159,7 +166,7 @@ namespace Calculadora
 
         private void btn0_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += "0";
             }
@@ -171,7 +178,7 @@ namespace Calculadora
 
         private void btndot_Click(object sender, EventArgs e)
         {
-            if (txtOperador.Focused)
+            if (txtOperador.Enabled)
             {
                 txtOperador.Text += ".";
             }
@@ -179,6 +186,15 @@ namespace Calculadora
             {
                 txtOperando.Text += ".";
             }
+        }
+
+        private void btnDesfazer_Click(object sender, EventArgs e)
+        {
+            calculadora = memento.desfazer();
+            btnRefazer.Enabled = true;
+            txtOperador.Text = calculadora.operador;
+            lblOp.Text = calculadora.operacao;
+            txtOperando.Text = calculadora.operando;
         }
     }
 }
