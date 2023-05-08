@@ -31,5 +31,10 @@ namespace ControllerProject
         {
             return this.repository.UpdateNotaEntrada(notaEntrada);
         }
+        
+        public NotaEntrada GetNotaEntradaById(Guid Id)
+        {
+            return this.repository.GetNotaEntradaById(Id);
+        }
     }
 }
