@@ -15,6 +15,8 @@ namespace ViewProject
     public partial class FormFornecedor : Form
     {
         private FornecedorController controller;
+
+
         public FormFornecedor(FornecedorController controller)
         {
             InitializeComponent();
