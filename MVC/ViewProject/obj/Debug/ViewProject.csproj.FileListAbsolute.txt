@@ -37,3 +37,7 @@ C:\Users\Aluno\Desktop\Programação visual\MVC\ViewProject\obj\Debug\ViewProjec
 C:\Users\Aluno\Desktop\Programação visual\MVC\ViewProject\obj\Debug\ViewProject.csproj.CopyComplete
 C:\Users\Aluno\Desktop\Programação visual\MVC\ViewProject\obj\Debug\ViewProject.exe
 C:\Users\Aluno\Desktop\Programação visual\MVC\ViewProject\obj\Debug\ViewProject.pdb
+C:\Users\64609-gabriel\Documents\ADS\MVC\ViewProject\obj\Debug\ViewProject.csproj.AssemblyReference.cache
+C:\Users\64609-gabriel\Documents\ADS\MVC\ViewProject\obj\Debug\ViewProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\64609-gabriel\Documents\ADS\MVC\ViewProject\obj\Debug\ViewProject.exe
+C:\Users\64609-gabriel\Documents\ADS\MVC\ViewProject\obj\Debug\ViewProject.pdb

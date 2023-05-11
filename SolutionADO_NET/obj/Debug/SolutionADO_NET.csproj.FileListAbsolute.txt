@@ -1,0 +1,12 @@
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\SolutionADO_NET.exe.config
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\SolutionADO_NET.exe
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\SolutionADO_NET.pdb
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.csproj.AssemblyReference.cache
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.csproj.SuggestedBindingRedirects.cache
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.Properties.Resources.resources
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.csproj.GenerateResource.cache
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.exe
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.pdb
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\App_Data\ADO_NETDatabase.mdf
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\App_Data\ADO_NETDatabase_log.ldf

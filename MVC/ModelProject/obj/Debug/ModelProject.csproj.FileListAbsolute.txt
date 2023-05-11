@@ -4,3 +4,9 @@ C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProj
 C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.dll
 C:\Users\Aluno\Desktop\Programação visual\MVC\ModelProject\obj\Debug\ModelProject.pdb
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\bin\Debug\ModelProject.dll
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\bin\Debug\ModelProject.pdb
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\obj\Debug\ModelProject.csproj.AssemblyReference.cache
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\obj\Debug\ModelProject.dll
+C:\Users\64609-gabriel\Documents\ADS\MVC\ModelProject\obj\Debug\ModelProject.pdb
