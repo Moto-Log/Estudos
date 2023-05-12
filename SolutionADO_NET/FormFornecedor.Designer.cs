@@ -45,18 +45,18 @@ namespace SolutionADO_NET
             this.btnNovo = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.DgvFornecedores = new System.Windows.Forms.DataGridView();
-            this.aDO_NETDatabaseDataSet = new SolutionADO_NET.ADO_NETDatabaseDataSet();
-            this.fornecedoresBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.fornecedoresTableAdapter = new SolutionADO_NET.ADO_NETDatabaseDataSetTableAdapters.FornecedoresTableAdapter();
             this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.cNPJDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nOMEDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fornecedoresBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.aDO_NETDatabaseDataSet = new SolutionADO_NET.ADO_NETDatabaseDataSet();
+            this.fornecedoresTableAdapter = new SolutionADO_NET.ADO_NETDatabaseDataSetTableAdapters.FornecedoresTableAdapter();
             this.tblDadosLeitura.SuspendLayout();
             this.tblEventos.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DgvFornecedores)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.aDO_NETDatabaseDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fornecedoresBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aDO_NETDatabaseDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // tblDadosLeitura
@@ -164,6 +164,7 @@ namespace SolutionADO_NET
             this.btnRemover.TabIndex = 3;
             this.btnRemover.Text = "Remover";
             this.btnRemover.UseVisualStyleBackColor = true;
+            this.btnRemover.Click += new System.EventHandler(this.btnRemover_Click);
             // 
             // btnCancelar
             // 
@@ -192,6 +193,7 @@ namespace SolutionADO_NET
             this.btnNovo.TabIndex = 0;
             this.btnNovo.Text = "Novo";
             this.btnNovo.UseVisualStyleBackColor = true;
+            this.btnNovo.Click += new System.EventHandler(this.btnNovo_Click);
             // 
             // panel1
             // 
@@ -225,20 +227,7 @@ namespace SolutionADO_NET
             this.DgvFornecedores.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             this.DgvFornecedores.Size = new System.Drawing.Size(408, 198);
             this.DgvFornecedores.TabIndex = 2;
-            // 
-            // aDO_NETDatabaseDataSet
-            // 
-            this.aDO_NETDatabaseDataSet.DataSetName = "ADO_NETDatabaseDataSet";
-            this.aDO_NETDatabaseDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // fornecedoresBindingSource
-            // 
-            this.fornecedoresBindingSource.DataMember = "Fornecedores";
-            this.fornecedoresBindingSource.DataSource = this.aDO_NETDatabaseDataSet;
-            // 
-            // fornecedoresTableAdapter
-            // 
-            this.fornecedoresTableAdapter.ClearBeforeFill = true;
+            this.DgvFornecedores.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DgvFornecedores_CellClick);
             // 
             // idDataGridViewTextBoxColumn
             // 
@@ -259,6 +248,20 @@ namespace SolutionADO_NET
             this.nOMEDataGridViewTextBoxColumn.HeaderText = "NOME";
             this.nOMEDataGridViewTextBoxColumn.Name = "nOMEDataGridViewTextBoxColumn";
             // 
+            // fornecedoresBindingSource
+            // 
+            this.fornecedoresBindingSource.DataMember = "Fornecedores";
+            this.fornecedoresBindingSource.DataSource = this.aDO_NETDatabaseDataSet;
+            // 
+            // aDO_NETDatabaseDataSet
+            // 
+            this.aDO_NETDatabaseDataSet.DataSetName = "ADO_NETDatabaseDataSet";
+            this.aDO_NETDatabaseDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // fornecedoresTableAdapter
+            // 
+            this.fornecedoresTableAdapter.ClearBeforeFill = true;
+            // 
             // FormFornecedor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -274,8 +277,8 @@ namespace SolutionADO_NET
             this.tblEventos.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.DgvFornecedores)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.aDO_NETDatabaseDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fornecedoresBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aDO_NETDatabaseDataSet)).EndInit();
             this.ResumeLayout(false);
 
         }

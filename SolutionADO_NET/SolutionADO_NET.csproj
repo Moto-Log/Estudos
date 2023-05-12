@@ -67,6 +67,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>ADO_NETDatabaseDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DAL_Fornecedor.cs" />
     <Compile Include="DBConnection.cs" />
     <Compile Include="FormFornecedor.cs">
       <SubType>Form</SubType>

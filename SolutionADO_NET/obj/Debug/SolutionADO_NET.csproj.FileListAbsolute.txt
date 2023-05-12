@@ -10,3 +10,4 @@ C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.e
 C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.pdb
 C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\App_Data\ADO_NETDatabase.mdf
 C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\bin\Debug\App_Data\ADO_NETDatabase_log.ldf
+C:\Users\64609-gabriel\Documents\ADS\SolutionADO_NET\obj\Debug\SolutionADO_NET.FormFornecedor.resources
