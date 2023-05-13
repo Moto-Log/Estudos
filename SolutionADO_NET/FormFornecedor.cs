@@ -16,7 +16,7 @@ namespace SolutionADO_NET
     public partial class FormFornecedor : Form
     {
         private Fornecedor fornecedorAtual;
-        private DAL_Fornecedor dal = new DAL_Fornecedor();
+        private readonly DAL_Fornecedor dal = new DAL_Fornecedor();
 
 
         public FormFornecedor()
@@ -53,7 +53,6 @@ namespace SolutionADO_NET
         {
             var connection = DBConnection.DB_Connection;
             var adapter = new SqlDataAdapter("select id, cnpj, nome from FORNECEDORES", connection);
-            var builder = new SqlCommandBuilder(adapter);
             var table = new DataTable();
             adapter.Fill(table);
             DgvFornecedores.DataSource = table;

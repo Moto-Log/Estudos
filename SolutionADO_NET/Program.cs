@@ -16,7 +16,7 @@ namespace SolutionADO_NET
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormFornecedor());
+            Application.Run(new FormProdutos());
         }
     }
 }
